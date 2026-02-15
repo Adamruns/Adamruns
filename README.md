@@ -11,9 +11,9 @@ Software engineer at MedShift in Charlotte, NC building full-stack applications 
 
 ## Notable projects
 
-- **[IRoar Premium](https://github.com/Adamruns/iroarpremium)** — Chrome extension that injects RateMyProfessors ratings and grade distribution data into Clemson's course registration system. Used by students on campus.
+- **[IRoar Premium](https://github.com/Adamruns/iroarpremium)** — Chrome extension that injects RateMyProfessors ratings and grade distribution data into Clemson's course registration system. Spread organically through the CS Discord and friend groups, with students actively using it during registration and providing feedback.
 - **[Strava Group Kudos](https://github.com/Adamruns/auto-group-strava-kudos)** — Playwright-based browser automation tool that navigates Strava via Chrome DevTools Protocol.
-- **[Teachers4Teachers Bot](https://github.com/Adamruns/teachers4teachersbot)** — Selenium WebDriver scraper handling pagination, dynamic content, and structured data extraction. Built as a paid project for a Clemson professor.
+- **[Teachers4Teachers Bot](https://github.com/Adamruns/teachers4teachersbot)** — Selenium WebDriver scraper built on a paid contract after a CS professor referred me to a non-technical colleague. Automated 100+ hours of manual data collection down to under 10 hours.
 - **[Movie Rec System](https://github.com/Adamruns/MovieRecSystem)** — Full-stack recommendation engine with Flask and PyTorch.
 
 ## Contact
