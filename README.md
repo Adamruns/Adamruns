@@ -14,4 +14,5 @@ Deeply into agentic AI and AI-assisted development. I use Claude Code as my prim
 
 ## Contact
 
-adamruns27@gmail.com
+adamruns27@gmail.com  
+[adamruns.com](https://adamruns.com)
